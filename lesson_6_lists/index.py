@@ -12,7 +12,7 @@
 # # ['Hw', 'Ho', 'Hr', 'Hd', 'H!', 'ew', 'eo', 'er', 'ed', 'e!', 'lw', 'lo', 'lr', 'ld', 'l!', 'lw', 'lo', 'lr', 'ld', 'l!']
 # print(arr)
 
-arr = [1,2,3]
+# arr = [1,2,3]
 # arr.append(4) # [1, 2, 3, 4]
 # arr.append('L') # [1, 2, 3, 'L']
 # arr.insert(1,'X') # [1, 'X', 2, 3]
@@ -23,5 +23,5 @@ arr = [1,2,3]
 # item = arr.pop() # [1, 2]
 # print(item) # 3
 
-arr = [1,2,2,3,3,3,4,4,4,4]
-print(arr.count(3)) # 3. We calculate counte mated items in array
+# arr = [1,2,2,3,3,3,4,4,4,4]
+# print(arr.count(3)) # 3. We calculate counte mated items in array
