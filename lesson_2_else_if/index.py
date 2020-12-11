@@ -12,3 +12,6 @@
 one = int(input('set one: '))
 res = 42 if one > 2 else 11
 print(res)
+
+x = 0 | 2
+print(x) # 2

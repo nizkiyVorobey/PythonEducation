@@ -25,3 +25,11 @@
 
 # arr = [1,2,2,3,3,3,4,4,4,4]
 # print(arr.count(3)) # 3. We calculate counte mated items in array
+
+
+# arr = [1,2,3]
+# arr.insert(0,9)
+# print(arr)
+
+# arr = [4,5,6,2]
+# print(min(arr))

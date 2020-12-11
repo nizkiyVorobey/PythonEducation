@@ -24,9 +24,14 @@
 #     print(item * 2, end = '') # HHeellll  WWrrlldd!!
 
 
-arr = ['one', 'two', 'three']
-for item in arr:
-    if item == 'three':
-        break
-    print(item)
-## one two
+# arr = ['one', 'two', 'three']
+# for item in arr:
+#     if item == 'three':
+#         break
+#     print(item)
+# ## one two
+
+
+# for idx, val in enumerate('123'):
+#     item = int(val) ** (idx + 1)
+#     print(item)
